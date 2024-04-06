@@ -21,7 +21,7 @@ body, head {
     width: 100vw;
     height: 500px;
     background-size: cover;
-    background-image: url("person-working-html-computer.jpg")
+    background-image: url("person-working-html-computer\ copy.jpg")
     
   }
   /* .f-background ::before {
@@ -73,7 +73,7 @@ body, head {
   .section {
     flex: 1;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 0px 2px solid #ccc;
     /* height: 100%; */
     display: flex;
     flex-direction: column;}
